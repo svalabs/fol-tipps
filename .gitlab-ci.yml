@@ -1,0 +1,10 @@
+---
+pages:
+  script:
+    - mkdir public
+    - cp -r index.html data.txt public
+  artifacts:
+    paths:
+      - public
+  only:
+  - main
