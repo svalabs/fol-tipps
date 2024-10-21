@@ -2436,7 +2436,7 @@
             "type": "💿",
             "description": "A simple, easy, useful map viewer & GPS navigator for your Ubuntu Touch",
             "url": "https://unav.me/",
-            "author": "Torsten Frank"
+            "author": "Torsten Franz"
         },
         {
             "episode": "E50",
