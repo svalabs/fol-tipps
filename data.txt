@@ -4396,7 +4396,7 @@
         {
             "episode": "E117",
             "episode_title": "Newsupdate 01/24 - SMTP Smuggling, Terrapin, Linux 6.7, openSUSE Leap 16, 20 Jahre OpenWrt",
-            "episode_url": "https://focusonlinux.podigee.io/117-newsupdate-1024-cups-ubuntu-2410-wordpress-opendesk-python-313",
+            "episode_url": "https://focusonlinux.podigee.io/117-newsupdate-1024-cups-ubuntu-2410-wordpress-python-313-subscribe-11",
             "date": "2024-10-25",
             "name": "The Mozilla Graveyard",
             "type": "📕",
@@ -4407,7 +4407,7 @@
         {
             "episode": "E117",
             "episode_title": "Newsupdate 01/24 - SMTP Smuggling, Terrapin, Linux 6.7, openSUSE Leap 16, 20 Jahre OpenWrt",
-            "episode_url": "https://focusonlinux.podigee.io/117-newsupdate-1024-cups-ubuntu-2410-wordpress-opendesk-python-313",
+            "episode_url": "https://focusonlinux.podigee.io/117-newsupdate-1024-cups-ubuntu-2410-wordpress-python-313-subscribe-11",
             "date": "2024-10-25",
             "name": "Firefox Multi-Account Containers",
             "type": "💿",
