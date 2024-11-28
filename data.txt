@@ -4395,7 +4395,7 @@
 
         {
             "episode": "E117",
-            "episode_title": "Newsupdate 01/24 - SMTP Smuggling, Terrapin, Linux 6.7, openSUSE Leap 16, 20 Jahre OpenWrt",
+            "episode_title": "Newsupdate 10/24 - SMTP Smuggling, Terrapin, Linux 6.7, openSUSE Leap 16, 20 Jahre OpenWrt",
             "episode_url": "https://focusonlinux.podigee.io/117-newsupdate-1024-cups-ubuntu-2410-wordpress-python-313-subscribe-11",
             "date": "2024-10-25",
             "name": "The Mozilla Graveyard",
@@ -4406,7 +4406,7 @@
         },
         {
             "episode": "E117",
-            "episode_title": "Newsupdate 01/24 - SMTP Smuggling, Terrapin, Linux 6.7, openSUSE Leap 16, 20 Jahre OpenWrt",
+            "episode_title": "Newsupdate 10/24 - SMTP Smuggling, Terrapin, Linux 6.7, openSUSE Leap 16, 20 Jahre OpenWrt",
             "episode_url": "https://focusonlinux.podigee.io/117-newsupdate-1024-cups-ubuntu-2410-wordpress-python-313-subscribe-11",
             "date": "2024-10-25",
             "name": "Firefox Multi-Account Containers",
@@ -4414,6 +4414,31 @@
             "description": "In Firefox voneinander isolierte Tabs/Container",
             "url": "https://support.mozilla.org/de/kb/firefox-tab-container",
             "author": "Felix Kerker"
+        },
+
+
+
+        {
+            "episode": "E118",
+            "episode_title": "Newsupdate 11/24 - Linux 6.12, RHEL 9.5/10 Beta, Fedora 41, needrestart, draw.io",
+            "episode_url": "https://focusonlinux.podigee.io/118-newsupdate-1124-linux-612-rhel-9510-beta-fedora-41-needrestart-drawio",
+            "date": "2024-11-29",
+            "name": "VSCode REST Client",
+            "type": "💿",
+            "description": "REST Client for Visual Studio Code",
+            "url": "https://marketplace.visualstudio.com/items?itemName=humao.rest-client",
+            "author": "Felix Kerker"
+        },
+        {
+            "episode": "E118",
+            "episode_title": "Newsupdate 11/24 - Linux 6.12, RHEL 9.5/10 Beta, Fedora 41, needrestart, draw.io",
+            "episode_url": "https://focusonlinux.podigee.io/118-newsupdate-1124-linux-612-rhel-9510-beta-fedora-41-needrestart-drawio",
+            "date": "2024-11-29",
+            "name": "Engineering Kiosk #146 - Warum ist Doom so faszinierend für die Software-Entwicklung?",
+            "type": "🎧",
+            "description": "Podcast-Episode über die Freuden des DOOM-Portierens",
+            "url": "https://engineeringkiosk.dev/podcast/episode/146-warum-ist-doom-so-faszinierend-f%C3%BCr-die-software-entwicklung",
+            "author": "Christian Stankowic"
         }
 
     ]
