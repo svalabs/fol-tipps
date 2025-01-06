@@ -7,7 +7,7 @@ Eine kleine Webseite, die mittels [DataTables](https://datatables.net/) die Tool
 Einfach die Webseite mit einem kleinen Webserver starten, z.B. [Python `http.server`](https://docs.python.org/3/library/http.html):
 
 ```command
-python3 -m http.server
+$ python3 -m http.server
 ```
 
 ## Datenpflege

@@ -4439,7 +4439,42 @@
             "description": "Podcast-Episode über die Freuden des DOOM-Portierens",
             "url": "https://engineeringkiosk.dev/podcast/episode/146-warum-ist-doom-so-faszinierend-f%C3%BCr-die-software-entwicklung",
             "author": "Christian Stankowic"
-        }
+        },
 
+
+
+        {
+            "episode": "E139",
+            "episode_title": "Newsupdate 12/24 - CentOS Stream 10, Linux 6.12, Proxmox Backup Server 3.3, elementaryOS 8, NixOS 24.11",
+            "episode_url": "https://focusonlinux.podigee.io/139-newsupdate-1224-centos-stream-10-linux-612-proxmox-backup-server-33-elementaryos-8-nixos-2411",
+            "date": "2024-12-20",
+            "name": "hurl",
+            "type": "💿",
+            "description": "Command line tool that runs HTTP requests defined in a simple plain text format.",
+            "url": "https://hurl.dev/",
+            "author": "Christian Stankowic"
+        },
+        {
+            "episode": "E139",
+            "episode_title": "Newsupdate 12/24 - CentOS Stream 10, Linux 6.12, Proxmox Backup Server 3.3, elementaryOS 8, NixOS 24.11",
+            "episode_url": "https://focusonlinux.podigee.io/139-newsupdate-1224-centos-stream-10-linux-612-proxmox-backup-server-33-elementaryos-8-nixos-2411",
+            "date": "2024-12-20",
+            "name": "Toniebox Reverse Engineering (37c3)",
+            "type": "🎥",
+            "description": "Vortrag über technische Details der Musikbox 'Toniebox', die sich vor allem an Kinder richtet",
+            "url": "https://media.ccc.de/v/37c3-11993-toniebox_reverse_engineering",
+            "author": "Felix Kerker"
+        },
+        {
+            "episode": "E139",
+            "episode_title": "Newsupdate 12/24 - CentOS Stream 10, Linux 6.12, Proxmox Backup Server 3.3, elementaryOS 8, NixOS 24.11",
+            "episode_url": "https://focusonlinux.podigee.io/139-newsupdate-1224-centos-stream-10-linux-612-proxmox-backup-server-33-elementaryos-8-nixos-2411",
+            "date": "2024-12-20",
+            "name": "TonUINO",
+            "type": "💿",
+            "description": "Open Source-Alternative zur Toniebox",
+            "url": "https://www.tonuino.de/TNG/",
+            "author": "Christian Stankowic"
+        }
     ]
 }
