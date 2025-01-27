@@ -4444,6 +4444,64 @@
 
 
         {
+            "episode": "E128",
+            "episode_title": "Die unendliche UNIX-Geschichte",
+            "episode_url": "https://focusonlinux.podigee.io/128-die-unendliche-unix-geschichte",
+            "date": "2024-12-10",
+            "name": "tmux",
+            "type": "💿",
+            "description": "Terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen",
+            "url": "https://github.com/tmux/tmux",
+            "author": "Peter Wüstefeld"
+        },
+        {
+            "episode": "E128",
+            "episode_title": "Die unendliche UNIX-Geschichte",
+            "episode_url": "https://focusonlinux.podigee.io/128-die-unendliche-unix-geschichte",
+            "date": "2024-12-10",
+            "name": "rlwrap",
+            "type": "💿",
+            "description": "A readline wrapper",
+            "url": "https://github.com/hanslub42/rlwrap",
+            "author": "Thomas Wagner"
+        },
+        {
+            "episode": "E128",
+            "episode_title": "Die unendliche UNIX-Geschichte",
+            "episode_url": "https://focusonlinux.podigee.io/128-die-unendliche-unix-geschichte",
+            "date": "2024-12-10",
+            "name": "lazygit",
+            "type": "💿",
+            "description": "Simple terminal UI for git commands",
+            "url": "https://github.com/jesseduffield/lazygit",
+            "author": "Melanie Falz"
+        },
+        {
+            "episode": "E128",
+            "episode_title": "Die unendliche UNIX-Geschichte",
+            "episode_url": "https://focusonlinux.podigee.io/128-die-unendliche-unix-geschichte",
+            "date": "2024-12-10",
+            "name": "sgi-esque-grub-theme",
+            "type": "💿",
+            "description": "Retro GRUB theme resembling that of the bootup screen in Silicon Graphics systems.",
+            "url": "https://github.com/ZoomTen/sgi-esque-grub-theme",
+            "author": "Christian Stankowic"
+        },
+        {
+            "episode": "E128",
+            "episode_title": "Die unendliche UNIX-Geschichte",
+            "episode_url": "https://focusonlinux.podigee.io/128-die-unendliche-unix-geschichte",
+            "date": "2024-12-10",
+            "name": "Brian W. Kernighan - Die UNIX-Story",
+            "type": "📕",
+            "description": "Die faszinierende Geschichte, wie Unix begann und wie es die Computerwelt eroberte",
+            "url": "",
+            "author": "Christian Stankowic"
+        },
+
+
+
+        {
             "episode": "E139",
             "episode_title": "Newsupdate 12/24 - CentOS Stream 10, Linux 6.12, Proxmox Backup Server 3.3, elementaryOS 8, NixOS 24.11",
             "episode_url": "https://focusonlinux.podigee.io/139-newsupdate-1224-centos-stream-10-linux-612-proxmox-backup-server-33-elementaryos-8-nixos-2411",
