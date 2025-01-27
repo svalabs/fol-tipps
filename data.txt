@@ -4502,6 +4502,20 @@
 
 
         {
+            "episode": "E131",
+            "episode_title": "Freifunk",
+            "episode_url": "https://focusonlinux.podigee.io/131-freifunk",
+            "date": "2024-12-13",
+            "name": "Brian W. Kernighan - Die UNIX-Story",
+            "type": "📕",
+            "description": "Die faszinierende Geschichte, wie Unix begann und wie es die Computerwelt eroberte",
+            "url": "",
+            "author": "Christian Stankowic"
+        },
+
+
+
+        {
             "episode": "E139",
             "episode_title": "Newsupdate 12/24 - CentOS Stream 10, Linux 6.12, Proxmox Backup Server 3.3, elementaryOS 8, NixOS 24.11",
             "episode_url": "https://focusonlinux.podigee.io/139-newsupdate-1224-centos-stream-10-linux-612-proxmox-backup-server-33-elementaryos-8-nixos-2411",
@@ -4533,6 +4547,64 @@
             "description": "Open Source-Alternative zur Toniebox",
             "url": "https://www.tonuino.de/TNG/",
             "author": "Christian Stankowic"
+        },
+
+
+
+        {
+            "episode": "E144",
+            "episode_title": "Jahresrückblick 2024",
+            "episode_url": "https://focusonlinux.podigee.io/144-jahresruckblick-2024",
+            "date": "2024-12-24",
+            "name": "fastfetch",
+            "type": "💿",
+            "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+            "url": "https://github.com/fastfetch-cli/fastfetch",
+            "author": "Dirk Deimeke"
+        },
+        {
+            "episode": "E144",
+            "episode_title": "Jahresrückblick 2024",
+            "episode_url": "https://focusonlinux.podigee.io/144-jahresruckblick-2024",
+            "date": "2024-12-24",
+            "name": "Mastowall",
+            "type": "💿",
+            "description": "Simple implementation of a Twitter-Wall like grid of postings from Mastodon",
+            "url": "https://github.com/rstockm/mastowall",
+            "author": "Christian Stankowic"
+        },
+        {
+            "episode": "E144",
+            "episode_title": "Jahresrückblick 2024",
+            "episode_url": "https://focusonlinux.podigee.io/144-jahresruckblick-2024",
+            "date": "2024-12-24",
+            "name": "Hans Rosling, Anna Rosling Rönnlund, Ola Rosling - Factfulness",
+            "type": "📕",
+            "description": "Wie wir lernen, die Welt so zu sehen, wie sie wirklich ist",
+            "url": "",
+            "author": "Dirk Deimeke"
+        },
+        {
+            "episode": "E144",
+            "episode_title": "Jahresrückblick 2024",
+            "episode_url": "https://focusonlinux.podigee.io/144-jahresruckblick-2024",
+            "date": "2024-12-24",
+            "name": "TED - Hans Rosling",
+            "type": "🎥",
+            "description": "TED-Talks von Hans Rosling",
+            "url": "https://www.ted.com/speakers/hans_rosling",
+            "author": "Dirk Deimeke"
+        },
+        {
+            "episode": "E144",
+            "episode_title": "Jahresrückblick 2024",
+            "episode_url": "https://focusonlinux.podigee.io/144-jahresruckblick-2024",
+            "date": "2024-12-24",
+            "name": "Gapminder Tools",
+            "type": "🌍",
+            "description": "Compares Life Expectancy & GDP per capita of all nations",
+            "url": "https://www.gapminder.org/tools",
+            "author": "Dirk Deimeke"
         }
     ]
 }
