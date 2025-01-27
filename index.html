@@ -56,7 +56,11 @@
                         {
                             data: 'name',
                             render: function (data, type, row ) {
-                                return '<a href="' + row.url + '">' + row.name + '</a>';
+                                if(row.url) {
+                                    return '<a href="' + row.url + '">' + row.name + '</a>';
+                                } else {
+                                    return row.name;
+                                }
                             }
                         },
                         { data: 'type' },
