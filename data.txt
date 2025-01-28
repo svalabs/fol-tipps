@@ -4671,6 +4671,53 @@
             "description": "Compares Life Expectancy & GDP per capita of all nations",
             "url": "https://www.gapminder.org/tools",
             "author": "Dirk Deimeke"
+        },
+
+
+
+        {
+            "episode": "E145",
+            "episode_title": "Newsupdate 01/25 - Rsync-CVE, Linux 6.13, OpenVox, Proxmox Datacenter Manager, Wine 10",
+            "episode_url": "https://focusonlinux.podigee.io/145-newsupdate-0125-rsync-cve-linux-613-openvox-proxmox-datacenter-manager-wine-10",
+            "date": "2025-01-31",
+            "name": "git bundle",
+            "type": "💿",
+            "description": "Move Git objects and refs by archive",
+            "url": "https://git-scm.com/docs/git-bundle",
+            "author": "Christian Stankowic"
+        },
+        {
+            "episode": "E145",
+            "episode_title": "Newsupdate 01/25 - Rsync-CVE, Linux 6.13, OpenVox, Proxmox Datacenter Manager, Wine 10",
+            "episode_url": "https://focusonlinux.podigee.io/145-newsupdate-0125-rsync-cve-linux-613-openvox-proxmox-datacenter-manager-wine-10",
+            "date": "2025-01-31",
+            "name": "borgmatic",
+            "type": "💿",
+            "description": "YAML-basierte Konfiguration für borgmatic und Rsync",
+            "url": "https://torsion.org/borgmatic/",
+            "author": "Christian Stankowic"
+        },
+        {
+            "episode": "E145",
+            "episode_title": "Newsupdate 01/25 - Rsync-CVE, Linux 6.13, OpenVox, Proxmox Datacenter Manager, Wine 10",
+            "episode_url": "https://focusonlinux.podigee.io/145-newsupdate-0125-rsync-cve-linux-613-openvox-proxmox-datacenter-manager-wine-10",
+            "date": "2025-01-31",
+            "name": "BlocksDS",
+            "type": "💿",
+            "description": "SDK für NintendoDS-Entwicklung",
+            "url": "https://blocksds.skylyrac.net/",
+            "author": "Jan Walther"
+        },
+        {
+            "episode": "E145",
+            "episode_title": "Newsupdate 01/25 - Rsync-CVE, Linux 6.13, OpenVox, Proxmox Datacenter Manager, Wine 10",
+            "episode_url": "https://focusonlinux.podigee.io/145-newsupdate-0125-rsync-cve-linux-613-openvox-proxmox-datacenter-manager-wine-10",
+            "date": "2025-01-31",
+            "name": "Bunster",
+            "type": "💿",
+            "description": "Compile shell scripts to static binaries",
+            "url": "https://github.com/yassinebenaid/bunster",
+            "author": "Felix Kerker"
         }
     ]
 }
