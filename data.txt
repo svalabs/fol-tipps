@@ -3792,7 +3792,7 @@
             "date": "2024-02-23",
             "name": "FOSDEM 2024 - So you think you know Git",
             "type": "🎥",
-            "description": "ToDo",
+            "description": "FOSDEM 2024-Talk über Git-Trivia",
             "url": "https://fosdem.org/2024/schedule/event/fosdem-2024-3611-so-you-think-you-know-git/",
             "author": "Felix Kerker"
         },
@@ -3814,7 +3814,7 @@
             "date": "2024-02-23",
             "name": "Emojipedia",
             "type": "🌍",
-            "description": "ToDo",
+            "description": "Emoji-Enzyklopädie",
             "url": "https://emojipedia.org/",
             "author": "Jan Walther"
         },
@@ -3922,7 +3922,7 @@
             "date": "2024-04-26",
             "name": "techBeck03/guacamole Terraform-Provider",
             "type": "💿",
-            "description": "ToDo",
+            "description": "Terraform-Provider für Proxmox",
             "url": "https://registry.terraform.io/providers/techBeck03/guacamole/latest",
             "author": "Christian Stankowic"
         },
