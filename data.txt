@@ -4506,11 +4506,77 @@
             "episode_title": "Freifunk",
             "episode_url": "https://focusonlinux.podigee.io/131-freifunk",
             "date": "2024-12-13",
-            "name": "Brian W. Kernighan - Die UNIX-Story",
-            "type": "📕",
-            "description": "Die faszinierende Geschichte, wie Unix begann und wie es die Computerwelt eroberte",
-            "url": "",
+            "name": "ansible-playbook-grapher",
+            "type": "💿",
+            "description": "Create a graph representing your Ansible playbook tasks and roles",
+            "url": "https://github.com/haidaraM/ansible-playbook-grapher",
             "author": "Christian Stankowic"
+        },
+        {
+            "episode": "E131",
+            "episode_title": "Freifunk",
+            "episode_url": "https://focusonlinux.podigee.io/131-freifunk",
+            "date": "2024-12-13",
+            "name": "Darmstadt Freifunk Meshviewer",
+            "type": "🌍",
+            "description": "Interaktive Freifunk-Karte des Landkreises Darmstadt-Dieburg",
+            "url": "https://meshviewer.darmstadt.freifunk.net/",
+            "author": "Dirk Steingässer"
+        },
+        {
+            "episode": "E131",
+            "episode_title": "Freifunk",
+            "episode_url": "https://focusonlinux.podigee.io/131-freifunk",
+            "date": "2024-12-13",
+            "name": "Freifunk Darmstadt",
+            "type": "🌍",
+            "description": "Portal von Freifunk Darmstadt",
+            "url": "https://darmstadt.freifunk.net/",
+            "author": "Dirk Steingässer"
+        },
+        {
+            "episode": "E131",
+            "episode_title": "Freifunk",
+            "episode_url": "https://focusonlinux.podigee.io/131-freifunk",
+            "date": "2024-12-13",
+            "name": "Open Mesh-Wiki",
+            "type": "🌍",
+            "description": "Open Mesh-Wiki mit Erklärungen rund um B.A.T.M.A.N. und co.",
+            "url": "https://www.open-mesh.org/projects/open-mesh/wiki",
+            "author": "Dirk Steingässer"
+        },
+        {
+            "episode": "E131",
+            "episode_title": "Freifunk",
+            "episode_url": "https://focusonlinux.podigee.io/131-freifunk",
+            "date": "2024-12-13",
+            "name": "Gluon",
+            "type": "🌍",
+            "description": "Framework zur Erstellung von OpenWrt-Firmwareabbildern",
+            "url": "https://gluon.readthedocs.io/en/latest/",
+            "author": "Dirk Steingässer"
+        },
+        {
+            "episode": "E131",
+            "episode_title": "Freifunk",
+            "episode_url": "https://focusonlinux.podigee.io/131-freifunk",
+            "date": "2024-12-13",
+            "name": "OpenWrt Firmware Selector",
+            "type": "🌍",
+            "description": "OpenWrt-Firmware online anpassen/erstellen",
+            "url": "https://firmware-selector.openwrt.org/",
+            "author": "David Bauer"
+        },
+        {
+            "episode": "E131",
+            "episode_title": "Freifunk",
+            "episode_url": "https://focusonlinux.podigee.io/131-freifunk",
+            "date": "2024-12-13",
+            "name": "fritz-tools",
+            "type": "🌍",
+            "description": "Sammlung nützlicher Skripte rund um AVM FRITZ!Box-Bootloader",
+            "url": "https://fritz-tools.readthedocs.io/de/latest/",
+            "author": "David Bauer"
         },
 
 
